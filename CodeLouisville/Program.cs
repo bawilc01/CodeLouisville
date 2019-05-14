@@ -6,6 +6,7 @@ namespace CodeLouisville
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("This is my first edit");
             Console.WriteLine("Hello World!");
         }
     }
